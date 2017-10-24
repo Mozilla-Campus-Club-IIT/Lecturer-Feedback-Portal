@@ -1,3 +1,6 @@
+![header](https://github.com/Mozilla-Campus-Club-IIT/Lecturer-Feedback-Portal/blob/master/file/hacktoberfesth1.jpg)
+![title](https://github.com/Mozilla-Campus-Club-IIT/Lecturer-Feedback-Portal/blob/master/file/Collection4.jpg)
+
 # Feedback Portal for Lecturers
 Lecturers want to get feedback from students after each lecture they do. 
 
