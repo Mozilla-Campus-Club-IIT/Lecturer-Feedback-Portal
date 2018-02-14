@@ -35,3 +35,4 @@ From the lecturer dashboard a lecturer can see the response and percentages of s
 - NodeJS 
 - MongoDB Database
 - [ ] AWS Lamda (Serverless Architecure)- in phase two
+lakshan
